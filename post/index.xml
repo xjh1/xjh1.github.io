@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugo</title>
+    <link>https://xjh1.github.io/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Mar 2017 16:36:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://xjh1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>爬虫爬取网页内外链</title>
+      <link>https://xjh1.github.io/post/%E7%88%AC%E8%99%AB%E7%88%AC%E5%8F%96%E7%BD%91%E9%A1%B5%E5%86%85%E5%A4%96%E9%93%BE/</link>
+      <pubDate>Tue, 21 Mar 2017 16:36:29 +0000</pubDate>
+      
+      <guid>https://xjh1.github.io/post/%E7%88%AC%E8%99%AB%E7%88%AC%E5%8F%96%E7%BD%91%E9%A1%B5%E5%86%85%E5%A4%96%E9%93%BE/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;用Beautifulsoup库写了一个小爬虫，用于爬取一个网站所有的内链和外链。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>python爬虫初体验</title>
+      <link>https://xjh1.github.io/post/python%E7%88%AC%E8%99%AB%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
+      <pubDate>Tue, 28 Feb 2017 18:30:28 +0000</pubDate>
+      
+      <guid>https://xjh1.github.io/post/python%E7%88%AC%E8%99%AB%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
+      <description>第一次写python爬虫，用的是Beautifulsoup库，实现了简单网页的内容爬取。 1.首先是beautifulsoup的安装: pip install beautifulsoup 2</description>
+    </item>
+    
+    <item>
+      <title>windows下scrapy爬虫框架安装</title>
+      <link>https://xjh1.github.io/post/windows%E4%B8%8Bscrapy%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Thu, 19 Jan 2017 12:36:58 +0000</pubDate>
+      
+      <guid>https://xjh1.github.io/post/windows%E4%B8%8Bscrapy%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85/</guid>
+      <description>1、安装python * 根据你的需求下载python安装包，安装python（本文基于python27）(https://www.python</description>
+    </item>
+    
+    <item>
+      <title>电脑购买心得</title>
+      <link>https://xjh1.github.io/post/%E7%94%B5%E8%84%91%E8%B4%AD%E4%B9%B0%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Tue, 17 Jan 2017 15:23:35 +0000</pubDate>
+      
+      <guid>https://xjh1.github.io/post/%E7%94%B5%E8%84%91%E8%B4%AD%E4%B9%B0%E5%BF%83%E5%BE%97/</guid>
+      <description>选电脑选了好久，终于下定决心买了一台 dell-燃7000，形似xps的灵越系列，本想在官网买15.6寸，但奈何官网复杂的退货手续，并且15.</description>
+    </item>
+    
+    <item>
+      <title>css鼠标悬停动画</title>
+      <link>https://xjh1.github.io/post/css%E9%BC%A0%E6%A0%87%E6%82%AC%E5%81%9C%E5%8A%A8%E7%94%BB/</link>
+      <pubDate>Sat, 26 Nov 2016 10:30:13 +0000</pubDate>
+      
+      <guid>https://xjh1.github.io/post/css%E9%BC%A0%E6%A0%87%E6%82%AC%E5%81%9C%E5%8A%A8%E7%94%BB/</guid>
+      <description>.subslogan &amp;gt; p{ -webkit-transform: translate3d(0,40px,0); transform: translate3d(0,40px,0); color: rgba(255,255,255,0.8); opacity: 0; -webkit-transition: opacity 0.2s, -webkit-transform 0.35s; transition: opacity 0.2s, transform 0.35s; } .subslogan &amp;gt; p:hover{ opacity: 1; -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); -webkit-transition-delay: 0.05s; transition-delay: 0.05s; -webkit-transition-duration: 0.35s; transition-duration: 0.35s; } 上面是一小段css的代码，可用于一张图片上鼠标指向图片时 出现</description>
+    </item>
+    
+    <item>
+      <title>hexo新版问题</title>
+      <link>https://xjh1.github.io/post/hexo/</link>
+      <pubDate>Tue, 22 Nov 2016 18:59:13 +0000</pubDate>
+      
+      <guid>https://xjh1.github.io/post/hexo/</guid>
+      <description>未曾哭过长夜的人，不足以语人生 &amp;ndash;歌德 今天用hexo写博客的时候，发现hexo -s启动本地服务的时候，是没有问题的，但hexo -d</description>
+    </item>
+    
+  </channel>
+</rss>
